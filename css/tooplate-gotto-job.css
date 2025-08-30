@@ -1004,6 +1004,8 @@ nav[aria-label="breadcrumb"] {
 
 .job-title-link {
   color: var(--dark-color);
+  font-weight: 10000;
+  font-size: 90px;
 }
 
 .job-thumb p {
