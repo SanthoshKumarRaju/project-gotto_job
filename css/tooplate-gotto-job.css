@@ -1554,4 +1554,13 @@ nav[aria-label="breadcrumb"] {
     margin: 20px auto 0 auto;
   }
 }
+.badge-remote {
+    background: linear-gradient(90deg, #36d1c4 0%, #5b86e5 100%);
+    color: #fff;
+    font-weight: 600;
+    border-radius: 12px;
+    padding: 0.25em 0.75em;
+    font-size: 0.85em;
+    display: inline-block;
+}
 
